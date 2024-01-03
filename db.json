@@ -1,0 +1,120 @@
+{
+  "user": [
+    {
+      "name": "sachin",
+      "password": "sachin123",
+      "email": "sachin@gm.com",
+      "id": 1
+    },
+    {
+      "name": "rahuk",
+      "password": "rahuk123",
+      "email": "rahuk@gm.com",
+      "id": 2
+    },
+    {
+      "name": "nacho",
+      "password": "nacho123",
+      "email": "nacho@gm.com",
+      "id": 3
+    },
+    {
+      "name": "saurav",
+      "email": "poojary",
+      "password": "qwerty",
+      "id": 4
+    },
+    {
+      "name": "sa",
+      "email": "as",
+      "password": "as",
+      "id": 5
+    },
+    {
+      "name": "scs",
+      "email": "sdfsdf",
+      "password": "dfs",
+      "id": 6
+    },
+    {
+      "name": "dsfcsd",
+      "email": "dsfsd",
+      "password": "sdfsd",
+      "id": 7
+    },
+    {
+      "name": "sauravwe",
+      "email": "p",
+      "password": "as",
+      "id": 8
+    },
+    {
+      "name": "s",
+      "email": "as",
+      "password": "sadas",
+      "id": 9
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "password": "ads",
+      "id": 10
+    },
+    {
+      "name": "saurav",
+      "email": "s@gmail.com",
+      "password": "qw",
+      "id": 11
+    },
+    {
+      "name": "poojary",
+      "email": "poojary@gmail.com",
+      "password": "qwerty",
+      "id": 12
+    },
+    {
+      "name": "Sheela",
+      "email": "sh@g.com",
+      "password": "sad",
+      "id": 13
+    }
+  ],
+  "restraunts": [
+    {
+      "name": "KF",
+      "address": "Delhi",
+      "rating": 4,
+      "id": 1
+    },
+    {
+      "name": "Dominos",
+      "address": "Mumbai",
+      "rating": 3.6,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "rating": 2.5,
+      "address": "Chennai"
+    },
+    {
+      "name": "dsf",
+      "address": "sdf",
+      "rating": 5,
+      "id": 4
+    },
+    {
+      "name": "we",
+      "address": "ewr",
+      "rating": 8,
+      "id": 5
+    },
+    {
+      "name": "Kediyoor",
+      "address": "udupi",
+      "rating": 9,
+      "id": 6
+    }
+  ]
+}
